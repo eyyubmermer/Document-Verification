@@ -1,3 +1,40 @@
+npm i --save-exact moralis@1.11.0 react-moralis@1.4.0
+npm i web3uikit
+
+![image](https://user-images.githubusercontent.com/98224771/198093457-997609f1-00bb-4cc6-973b-1ecd22f16abf.png)
+
+Ağ Adı
+BNB Smart Chain Testnet
+
+Yeni RPC URL adresi
+https://data-seed-prebsc-1-s1.binance.org:8545/
+
+Zincir Kimliği
+97
+
+Para Birimi Sembolü
+BNB
+
+Blok Gezgini URL Adresi
+https://testnet.bscscan.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
