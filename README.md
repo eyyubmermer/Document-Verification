@@ -18,8 +18,9 @@ BNB
 Blok Gezgini URL Adresi
 https://testnet.bscscan.com/
 
+Faucet 
 
-
+https://testnet.binance.org/faucet-smart
 
 
 
